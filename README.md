@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hey there, I'm  Mohammad Amir Mohammadi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**M-amir-M/M-amir-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<p align="center">Join Me In Socials!</p>
+<a href="https://www.twitter.com/hi_mohammadi/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/mohammad-amir-mohammadi/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/6159522/m-amir-m">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+
+<a href="https://t.me/mohammad_amir_mohammadi/">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+
+</div>
+
+### I'm a Software Engineer, Developer and #Flutter lover
+- ₿ First Of all I love decentralized world.
+- 🧑‍💻 I’m realy interested about Flutter and Blockchain
+- 🌱 I’m currently learning Solidity.
+- 💬 Ask me anything about flutter and dart
+- 🌏 You can find me in social that is mentioned in top
+- 📨 Or for fast way just send me a Mail in mem.amir.m@gmail.com
+
+### Persian Flutter Community
+I'm a member of Persian Flutter, if you speak Persian and love Flutter you can join us now
+
+- Find all thing about Persian Flutter in our <a href="http://persianflutter.com">
+        <img src="https://img.shields.io/website-up-down-green-red/http/persianflutter.com.svg" />
+    </a>
+- We have have discord Server and you can find it here <a href="http://discord.link/PersianFlutter">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" />
+    </a>
+- We also have slack workstation so you can join us there <a href="https://join.slack.com/t/persianflutter/shared_invite/zt-lw6dkij5-wMkJhP~GTchpVwvXo2KYDQ">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
+    </a>
+
+
+### GitHub Statistics
+[![Mohammad Amir GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-amir-M&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
