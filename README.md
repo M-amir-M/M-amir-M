@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align="center">Join Me In Socials!</p>
-<a href="https://www.twitter.com/hi_mohammadi/">
+<a href="https://www.twitter.com/hi_mohammadamir/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
