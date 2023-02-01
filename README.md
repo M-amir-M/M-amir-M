@@ -23,12 +23,12 @@
 </div>
 
 ### I'm a Software Engineer, Developer and #Flutter lover
-- ₿ First Of all I love decentralized world.
-- 🧑‍💻 I’m realy interested about Flutter and Blockchain
-- 🌱 I’m currently learning Solidity.
-- 💬 Ask me anything about flutter and dart
-- 🌏 You can find me in social that is mentioned in top
-- 📨 Or for fast way just send me a Mail in mem.amir.m@gmail.com
+- ₿ First of all, I love the decentralized world.
+- 🧑‍💻 I am really interested in Flutter and Blockchain.
+- 🌱 I am currently learning Solidity.
+- 💬 Ask me anything about Flutter and Dart.
+- 🌏 You can find me on social media as mentioned above.
+- 📨 Or for a fast way, just send me an email at mem.amir.m@gmail.com.
 
 ### Persian Flutter Community
 I'm a member of Persian Flutter, if you speak Persian and love Flutter you can join us now
