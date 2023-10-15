@@ -23,9 +23,7 @@
 </div>
 
 ### I'm a Software Engineer, Developer and #Flutter lover
-- ₿ First of all, I love the decentralized world.
-- 🧑‍💻 I am really interested in Flutter and Blockchain.
-- 🌱 I am currently learning Solidity.
+- 🧑‍💻 I am really interested in Flutter and Mobile development.
 - 💬 Ask me anything about Flutter and Dart.
 - 🌏 You can find me on social media as mentioned above.
 - 📨 Or for a fast way, just send me an email at mem.amir.m@gmail.com.
